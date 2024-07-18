@@ -1,4 +1,4 @@
-To train and deploy cash forecasting model for one of the leading chain shops here in Australia.
+To train and deploy cash forecasting model(Random Forest-Regression, LSTM-Time series) for one of the leading chain shops here in Australia.
 
 The process was pretty much as follows:
 1.Data Collection and Preprocessing:
